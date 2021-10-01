@@ -10,7 +10,9 @@ class Fibonacci_Series {
         int prevTerm = 0;
         int currentTerm = 1;
         int nextTerm;
-        Fibonacci_Series obj = new Fibonacci_Series();
+        Fibonacci_Series obj = new Fibonacci_Series(); 
+        
+        
 
         for (int i = 1; i <= n; i++) {
 
